@@ -2,7 +2,7 @@
 
 A clean, modern and fully responsive personal portfolio built from scratch with HTML5, CSS3 and vanilla JavaScript. No frameworks or templates.
 
-**Live demo:** _add your GitHub Pages link here_
+**Live demo:** https://personal-portfolio-rho-six-90.vercel.app/
 
 ## Features
 
