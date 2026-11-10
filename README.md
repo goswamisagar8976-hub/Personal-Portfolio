@@ -67,11 +67,8 @@ Replace the following with your own details in `index.html`:
 
 ## Screenshots
 
-| Desktop | Mobile |
-| --- | --- |
-| <img width="1878" height="903" alt="Screenshot 2026-11-10 155739" src="https://github.com/user-attachments/assets/c7fa4717-c4af-4aeb-9132-c304384941bb" />
-| <img width="350" height="787" alt="image" src="https://github.com/user-attachments/assets/704c9c09-ef36-4c46-b45d-3039dd34cb69" />
- |
+ <img width="1878" height="903" alt="Screenshot 2026-11-10 155739" src="https://github.com/user-attachments/assets/c7fa4717-c4af-4aeb-9132-c304384941bb" />
+ <img width="350" height="787" alt="image" src="https://github.com/user-attachments/assets/704c9c09-ef36-4c46-b45d-3039dd34cb69" />
 
 ## Contact form note
 
